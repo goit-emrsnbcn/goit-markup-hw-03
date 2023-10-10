@@ -17,6 +17,8 @@ body {
     list-style: none;
     padding-left: 0;
     display: flex;
+    justify-content: center;
+    gap: 30px;
 }
 
 .bg-dark {
@@ -170,6 +172,10 @@ body {
     font-weight: 500;
     line-height: 1.5; /* 120% */
     letter-spacing: 0.4px;
+}
+
+.team li {
+    text-align: center;
 }
 
 /*FOOTER STYLING*/
