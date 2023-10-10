@@ -85,6 +85,12 @@ body {
     padding-top: 120px;
     padding-bottom: 120px;
 }
+
+.what-we-do ul,
+.about ul,
+.team ul {
+    justify-content: center;
+}
 /*END OF GENERAL STYLING*/
 
 /*HEADER STYLING*/
@@ -172,10 +178,6 @@ body {
     font-weight: 500;
     line-height: 1.5; /* 120% */
     letter-spacing: 0.4px;
-}
-
-.team li {
-    text-align: center;
 }
 
 /*FOOTER STYLING*/
